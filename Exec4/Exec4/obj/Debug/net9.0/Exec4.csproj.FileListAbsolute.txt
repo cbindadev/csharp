@@ -1,0 +1,14 @@
+C:\Sistemas\Projetos .NET\Exec4\Exec4\bin\Debug\net9.0\Exec4.exe
+C:\Sistemas\Projetos .NET\Exec4\Exec4\bin\Debug\net9.0\Exec4.deps.json
+C:\Sistemas\Projetos .NET\Exec4\Exec4\bin\Debug\net9.0\Exec4.runtimeconfig.json
+C:\Sistemas\Projetos .NET\Exec4\Exec4\bin\Debug\net9.0\Exec4.dll
+C:\Sistemas\Projetos .NET\Exec4\Exec4\bin\Debug\net9.0\Exec4.pdb
+C:\Sistemas\Projetos .NET\Exec4\Exec4\obj\Debug\net9.0\Exec4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Projetos .NET\Exec4\Exec4\obj\Debug\net9.0\Exec4.AssemblyInfoInputs.cache
+C:\Sistemas\Projetos .NET\Exec4\Exec4\obj\Debug\net9.0\Exec4.AssemblyInfo.cs
+C:\Sistemas\Projetos .NET\Exec4\Exec4\obj\Debug\net9.0\Exec4.csproj.CoreCompileInputs.cache
+C:\Sistemas\Projetos .NET\Exec4\Exec4\obj\Debug\net9.0\Exec4.dll
+C:\Sistemas\Projetos .NET\Exec4\Exec4\obj\Debug\net9.0\refint\Exec4.dll
+C:\Sistemas\Projetos .NET\Exec4\Exec4\obj\Debug\net9.0\Exec4.pdb
+C:\Sistemas\Projetos .NET\Exec4\Exec4\obj\Debug\net9.0\Exec4.genruntimeconfig.cache
+C:\Sistemas\Projetos .NET\Exec4\Exec4\obj\Debug\net9.0\ref\Exec4.dll

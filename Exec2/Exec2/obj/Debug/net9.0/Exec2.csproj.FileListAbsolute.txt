@@ -1,0 +1,14 @@
+C:\Sistemas\Projetos .NET\Exec2\Exec2\bin\Debug\net9.0\Exec2.exe
+C:\Sistemas\Projetos .NET\Exec2\Exec2\bin\Debug\net9.0\Exec2.deps.json
+C:\Sistemas\Projetos .NET\Exec2\Exec2\bin\Debug\net9.0\Exec2.runtimeconfig.json
+C:\Sistemas\Projetos .NET\Exec2\Exec2\bin\Debug\net9.0\Exec2.dll
+C:\Sistemas\Projetos .NET\Exec2\Exec2\bin\Debug\net9.0\Exec2.pdb
+C:\Sistemas\Projetos .NET\Exec2\Exec2\obj\Debug\net9.0\Exec2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Projetos .NET\Exec2\Exec2\obj\Debug\net9.0\Exec2.AssemblyInfoInputs.cache
+C:\Sistemas\Projetos .NET\Exec2\Exec2\obj\Debug\net9.0\Exec2.AssemblyInfo.cs
+C:\Sistemas\Projetos .NET\Exec2\Exec2\obj\Debug\net9.0\Exec2.csproj.CoreCompileInputs.cache
+C:\Sistemas\Projetos .NET\Exec2\Exec2\obj\Debug\net9.0\Exec2.dll
+C:\Sistemas\Projetos .NET\Exec2\Exec2\obj\Debug\net9.0\refint\Exec2.dll
+C:\Sistemas\Projetos .NET\Exec2\Exec2\obj\Debug\net9.0\Exec2.pdb
+C:\Sistemas\Projetos .NET\Exec2\Exec2\obj\Debug\net9.0\Exec2.genruntimeconfig.cache
+C:\Sistemas\Projetos .NET\Exec2\Exec2\obj\Debug\net9.0\ref\Exec2.dll

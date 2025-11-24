@@ -1,0 +1,14 @@
+C:\Sistemas\Projetos .NET\Exec5\Exec5\bin\Debug\net9.0\Exec5.exe
+C:\Sistemas\Projetos .NET\Exec5\Exec5\bin\Debug\net9.0\Exec5.deps.json
+C:\Sistemas\Projetos .NET\Exec5\Exec5\bin\Debug\net9.0\Exec5.runtimeconfig.json
+C:\Sistemas\Projetos .NET\Exec5\Exec5\bin\Debug\net9.0\Exec5.dll
+C:\Sistemas\Projetos .NET\Exec5\Exec5\bin\Debug\net9.0\Exec5.pdb
+C:\Sistemas\Projetos .NET\Exec5\Exec5\obj\Debug\net9.0\Exec5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Projetos .NET\Exec5\Exec5\obj\Debug\net9.0\Exec5.AssemblyInfoInputs.cache
+C:\Sistemas\Projetos .NET\Exec5\Exec5\obj\Debug\net9.0\Exec5.AssemblyInfo.cs
+C:\Sistemas\Projetos .NET\Exec5\Exec5\obj\Debug\net9.0\Exec5.csproj.CoreCompileInputs.cache
+C:\Sistemas\Projetos .NET\Exec5\Exec5\obj\Debug\net9.0\Exec5.dll
+C:\Sistemas\Projetos .NET\Exec5\Exec5\obj\Debug\net9.0\refint\Exec5.dll
+C:\Sistemas\Projetos .NET\Exec5\Exec5\obj\Debug\net9.0\Exec5.pdb
+C:\Sistemas\Projetos .NET\Exec5\Exec5\obj\Debug\net9.0\Exec5.genruntimeconfig.cache
+C:\Sistemas\Projetos .NET\Exec5\Exec5\obj\Debug\net9.0\ref\Exec5.dll

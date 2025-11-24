@@ -1,0 +1,14 @@
+C:\Sistemas\Projetos .NET\Exec1\obj\Debug\net9.0\Exec1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Projetos .NET\Exec1\obj\Debug\net9.0\Exec1.AssemblyInfoInputs.cache
+C:\Sistemas\Projetos .NET\Exec1\obj\Debug\net9.0\Exec1.AssemblyInfo.cs
+C:\Sistemas\Projetos .NET\Exec1\obj\Debug\net9.0\Exec1.csproj.CoreCompileInputs.cache
+C:\Sistemas\Projetos .NET\Exec1\bin\Debug\net9.0\Exec1.exe
+C:\Sistemas\Projetos .NET\Exec1\bin\Debug\net9.0\Exec1.deps.json
+C:\Sistemas\Projetos .NET\Exec1\bin\Debug\net9.0\Exec1.runtimeconfig.json
+C:\Sistemas\Projetos .NET\Exec1\bin\Debug\net9.0\Exec1.dll
+C:\Sistemas\Projetos .NET\Exec1\bin\Debug\net9.0\Exec1.pdb
+C:\Sistemas\Projetos .NET\Exec1\obj\Debug\net9.0\Exec1.dll
+C:\Sistemas\Projetos .NET\Exec1\obj\Debug\net9.0\refint\Exec1.dll
+C:\Sistemas\Projetos .NET\Exec1\obj\Debug\net9.0\Exec1.pdb
+C:\Sistemas\Projetos .NET\Exec1\obj\Debug\net9.0\Exec1.genruntimeconfig.cache
+C:\Sistemas\Projetos .NET\Exec1\obj\Debug\net9.0\ref\Exec1.dll
