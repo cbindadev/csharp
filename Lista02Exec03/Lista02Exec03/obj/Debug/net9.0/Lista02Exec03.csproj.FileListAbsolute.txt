@@ -1,0 +1,15 @@
+C:\Sistemas\Projetos .NET\csharp\Lista02Exec03\Lista02Exec03\bin\Debug\net9.0\Lista02Exec03.exe
+C:\Sistemas\Projetos .NET\csharp\Lista02Exec03\Lista02Exec03\bin\Debug\net9.0\Lista02Exec03.deps.json
+C:\Sistemas\Projetos .NET\csharp\Lista02Exec03\Lista02Exec03\bin\Debug\net9.0\Lista02Exec03.runtimeconfig.json
+C:\Sistemas\Projetos .NET\csharp\Lista02Exec03\Lista02Exec03\bin\Debug\net9.0\Lista02Exec03.dll
+C:\Sistemas\Projetos .NET\csharp\Lista02Exec03\Lista02Exec03\bin\Debug\net9.0\Lista02Exec03.pdb
+C:\Sistemas\Projetos .NET\csharp\Lista02Exec03\Lista02Exec03\obj\Debug\net9.0\Lista02Exec03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Projetos .NET\csharp\Lista02Exec03\Lista02Exec03\obj\Debug\net9.0\Lista02Exec03.AssemblyInfoInputs.cache
+C:\Sistemas\Projetos .NET\csharp\Lista02Exec03\Lista02Exec03\obj\Debug\net9.0\Lista02Exec03.AssemblyInfo.cs
+C:\Sistemas\Projetos .NET\csharp\Lista02Exec03\Lista02Exec03\obj\Debug\net9.0\Lista02Exec03.csproj.CoreCompileInputs.cache
+C:\Sistemas\Projetos .NET\csharp\Lista02Exec03\Lista02Exec03\obj\Debug\net9.0\Lista02Exec03.sourcelink.json
+C:\Sistemas\Projetos .NET\csharp\Lista02Exec03\Lista02Exec03\obj\Debug\net9.0\Lista02Exec03.dll
+C:\Sistemas\Projetos .NET\csharp\Lista02Exec03\Lista02Exec03\obj\Debug\net9.0\refint\Lista02Exec03.dll
+C:\Sistemas\Projetos .NET\csharp\Lista02Exec03\Lista02Exec03\obj\Debug\net9.0\Lista02Exec03.pdb
+C:\Sistemas\Projetos .NET\csharp\Lista02Exec03\Lista02Exec03\obj\Debug\net9.0\Lista02Exec03.genruntimeconfig.cache
+C:\Sistemas\Projetos .NET\csharp\Lista02Exec03\Lista02Exec03\obj\Debug\net9.0\ref\Lista02Exec03.dll
